@@ -1,4 +1,4 @@
-# Internal Social Network - GROUPOMANIA
+# Internal Social Network
 
 A modern social network application built as a monorepo with a robust backend API and an interactive Vue.js frontend.
 
@@ -89,8 +89,8 @@ Before you begin, ensure you have installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MarcHamacek/internal-social-network.git
-cd internal-social-network
+git clone https://github.com/michael8sa/web.git
+cd web
 ```
 
 ### 2. Install root dependencies
@@ -217,11 +217,11 @@ npm run lint             # Run ESLint
 
 ## 📄 License
 
-ISC
+MIT
 
 ## 👤 Author
 
-Marc Hamacek
+Michael
 
 ---
 
