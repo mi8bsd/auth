@@ -1,7 +1,0 @@
-#!/bin/csh
-
-: jz.jail.setup
-
-jz.zfs  setup
-jz.pf   setup
-jz.jail.bootstrap
